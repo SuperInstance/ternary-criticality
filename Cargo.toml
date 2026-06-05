@@ -1,0 +1,11 @@
+[package]
+name = "ternary-criticality"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Critical slowing down detector for ternary systems"
+repository = "https://github.com/SuperInstance/ternary-criticality"
+
+[lib]
+
+[dependencies]
